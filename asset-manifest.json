@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mitso98.github.io/Expenses-App-React/static/css/main.a2bf33a7.css",
+    "main.js": "/Mitso98.github.io/Expenses-App-React/static/js/main.d8e8c39f.js",
+    "index.html": "/Mitso98.github.io/Expenses-App-React/index.html",
+    "main.a2bf33a7.css.map": "/Mitso98.github.io/Expenses-App-React/static/css/main.a2bf33a7.css.map",
+    "main.d8e8c39f.js.map": "/Mitso98.github.io/Expenses-App-React/static/js/main.d8e8c39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2bf33a7.css",
+    "static/js/main.d8e8c39f.js"
+  ]
+}
